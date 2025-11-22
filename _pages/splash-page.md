@@ -1,5 +1,5 @@
 ---
-title: "A MBE and SBE certified GIS Firm servicing New Jersey"
+#title: "A MBE and SBE certified GIS Firm servicing New Jersey"
 layout: splash
 classes:
   - landing
@@ -13,6 +13,8 @@ header:
       url: "/contact/"
     - label: "Explore Services"
       url: "#services"
+excerpt: "A MBE and SBE certified GIS Firm servicing New Jersey"
+description: "A MBE and SBE certified GIS Firm servicing New Jersey"
 
 intro:
   - title: 'Our Mission'
