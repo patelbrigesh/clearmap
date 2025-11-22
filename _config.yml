@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ClearMap Solutions
+title: "ClearMap Solutions"
 email: brigesh@clearmapusa.com
 description: >- # this means to ignore newlines until "baseurl:"
   Unlock the power of GIS using ClearMap Solutions
@@ -34,9 +34,8 @@ atom_feed:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-sitemap
-  - jemoji
   - jekyll-include-cache
+  - jekyll-sitemap
   - jekyll-seo-tag
 
 author:
@@ -44,19 +43,16 @@ author:
   # avatar : "/assets/images/bio-photo.jpg"
   bio    : GIS specialist
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
+  # Home page
+  - scope:
+      path: ""
+      type: home
+    values:
+      layout: single
+      author_profile: false
+
   # _posts
   - scope:
       path: ""
@@ -64,21 +60,11 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
+
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+      author_profile: false
