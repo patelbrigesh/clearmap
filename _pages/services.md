@@ -7,68 +7,44 @@ author_profile: false
 
 <h2>Professional GIS Services</h2>
 
-<p>ClearMap Solutions offers comprehensive GIS consulting and development services tailored to meet your organization's spatial data needs. From strategic planning to hands-on implementation, we help you unlock the power of geographic information.</p>
+<p>ClearMap Solutions offers comprehensive GIS consulting and development services tailored to meet your organization's spatial data needs. From strategic planning to hands-on implementation, we help you unlock the power of geographic information.
 
-<h3>Consulting and Strategy</h3>
+We offer a FREE discovery session, where we can create a tiered offering to meet you where you are, with what you have and take you where you can be.</p>
+
+<h3>Tier 1: Essential Support</h3>
 <div class="service-block">
-  <div class="service-image">
-    <img src="/assets/images/service-consulting.png" alt="GIS Consulting" style="max-width: 200px;">
-
-  </div>
   <div class="service-content">
-    <p>Planning, evaluating, and guiding clients to understand which GIS solutions they may need to align with their organizational goals. Our strategic consulting helps you:</p>
     <ul>
-      <li>Assess your current spatial data infrastructure</li>
-      <li>Develop GIS implementation roadmaps</li>
-      <li>Optimize workflows and processes</li>
-      <li>Align GIS initiatives with business objectives</li>
+      <li>Database Creation & Maintenance</li>
+      <li>As-built Digitization & Mapping</li>
+      <li>Utility Asset Inventory & Mapping</li>
+      <li>Application Development</li>
+      <li>Environmental & Regulatory Mapping</li>
+      <li>Field data collection application</li>
     </ul>
   </div>
 </div>
 
-<h3>Expert GIS Development</h3>
+<h3>Tier 2: Professional Analysis</h3>
 <div class="service-block">
-  <div class="service-image">
-    <img src="/assets/images/service-development.png" alt="GIS Development" style="max-width: 200px;">
-
-  </div>
   <div class="service-content">
-    <p>Hands-on technical execution - where we professionally build, configure, and integrate GIS systems for operational use:</p>
     <ul>
-      <li>Custom application development</li>
-      <li>Database design and optimization</li>
-      <li>System integration and automation</li>
-      <li>API development for spatial data</li>
+      <li>Utility Network Implementation & Integration</li>
+      <li>Enterprise dashboards & Executive Reporting</li>
     </ul>
   </div>
 </div>
 
-<h3>Maintenance and Support</h3>
+<h3>Tier 3: Enterprise System Integration</h3>
 <div class="service-block">
-  <div class="service-image">
-    <img src="/assets/images/service-support.png" alt="System Support" style="max-width: 200px;">
-
-  </div>
   <div class="service-content">
-    <p>A mix of both - providing ongoing data management, system updates, and user support - ideal for clients who prefer a "virtual GIS department":</p>
     <ul>
-      <li>Ongoing system maintenance and updates</li>
-      <li>Data quality management</li>
+      <li>GIS System Modernization & Cloud Migration</li>
+      <li>Thermal, Aerial & Remote Sensing Analysis</li>
       <li>User training and documentation</li>
-      <li>24/7 technical support</li>
+      <li>GIS + CMMS+ SCADA + ERP Integration</li>
     </ul>
   </div>
-</div>
-
-<h3>Why Choose ClearMap Solutions?</h3>
-<div class="why-choose-us">
-  <ul>
-    <li><strong>Certified Expertise:</strong> MBE and SBE certified GIS professionals</li>
-    <li><strong>Comprehensive Solutions:</strong> End-to-end GIS services from planning to execution</li>
-    <li><strong>Industry Knowledge:</strong> Deep understanding of New Jersey's GIS landscape</li>
-    <li><strong>Proven Results:</strong> Track record of successful GIS implementations</li>
-    <li><strong>Ongoing Partnership:</strong> Continued support beyond project completion</li>
-  </ul>
 </div>
 
 <h3>Services Not Limited To Those Mentioned Above</h3>
@@ -155,7 +131,7 @@ author_profile: false
 .btn {
   display: inline-block;
   background-color: #007bff;
-  color: white;
+  color: black;
   padding: 15px 30px;
   text-decoration: none;
   border-radius: 5px;
