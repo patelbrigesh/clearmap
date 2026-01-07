@@ -1,19 +1,17 @@
 ---
-#title: "A MBE and SBE certified GIS Firm servicing New Jersey"
 layout: splash
-classes:
-  - landing
 permalink: /
-date: 2024-11-22
-header:
-  overlay_color: "#319E92"
-  overlay_filter: "0.7"
-  actions:
-    - label: "Contact Us"
-      url: "/contact/"
-    - label: "Explore Services"
-      url: "/services"
-excerpt: "A MBE and SBE certified GIS Firm servicing New Jersey to unlock the power of GIS by providing innovative solutions that transform complex spatial data into clear, actionable insights. We partner with our clients to bridge the gap between data and decision-making, enabling smarter planning and better outcomes through geospatial technology."
-description: "A MBE and SBE certified GIS Firm servicing New Jersey"
+title: "ClearMap Solutions | GIS Consulting for Utilities and Engineering"
+description: "GIS consulting and mapping services for utilities, engineering, municipalities, and environmental teams. MBE and SBE certified in New Jersey."
+classes: wide
 ---
 
+<div class="onepage">
+  {% include hero.html %}
+
+  {% include about.html %}
+
+  {% include services.html %}
+
+  {% include contact.html %}
+</div>

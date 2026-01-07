@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Unlock the power of GIS using ClearMap Solutions
 url: "https://clearmapusa.com"
 minimal_mistakes_skin: default
-logo: "assets/images/ClearMap Logo.png"
+logo: "assets/images/CM logo.png"
 masthead_title: ""
 
 # Build settings
